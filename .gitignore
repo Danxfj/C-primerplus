@@ -1,0 +1,9 @@
+*.o
+a.out
+*.sh
+.DS_Store
+
+.idea/
+.vscode/
+.vs/
+x64

@@ -54,7 +54,19 @@
     <ClCompile Include="limits.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="exceed.cpp">
+    <ClCompile Include="hexoct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hexoct2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chartype.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="morechar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bondini.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
