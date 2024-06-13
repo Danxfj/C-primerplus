@@ -69,6 +69,18 @@
     <ClCompile Include="bondini.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="floatnum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fltadd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arith.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="divide.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
