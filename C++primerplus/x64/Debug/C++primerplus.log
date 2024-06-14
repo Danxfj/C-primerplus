@@ -1,2 +1,5 @@
-﻿  arith.cpp
+﻿  3-2.cpp
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\3-2.cpp(3,35): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\3-2.cpp(4,36): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\3-2.cpp(13,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
   C++primerplus.vcxproj -> E:\C++Script\vs2022project\C++primerplus\x64\Debug\C++primerplus.exe

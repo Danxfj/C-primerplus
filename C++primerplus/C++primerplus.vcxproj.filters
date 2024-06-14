@@ -78,7 +78,16 @@
     <ClCompile Include="arith.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="divide.cpp">
+    <ClCompile Include="modulus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="assign.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
