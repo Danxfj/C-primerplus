@@ -90,6 +90,30 @@
     <ClCompile Include="3-2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="instr1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="numstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtype.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtype2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
