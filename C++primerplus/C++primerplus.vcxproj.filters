@@ -114,6 +114,18 @@
     <ClCompile Include="strtype2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="strtype4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="structur.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="assgn_st.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrstruc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
