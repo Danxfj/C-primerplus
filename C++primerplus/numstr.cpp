@@ -8,7 +8,7 @@ int main()
 	cin.get();
 	cout << "What is its street address?\n";
 	char address[80];
-	cin.getline(address, 80);
+	cin.get(address,80);
 	cout << "Year built: " << year << endl;
 	cout << "Address: " << address << endl;
 	cout << "Done!\n";
