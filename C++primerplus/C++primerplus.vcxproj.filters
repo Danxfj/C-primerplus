@@ -171,6 +171,39 @@
     <ClCompile Include="4-3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="forloop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="num_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="express.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="formore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bigstep.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forstr1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="block.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forstr2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="equal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="compstr1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
