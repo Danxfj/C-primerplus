@@ -204,6 +204,21 @@
     <ClCompile Include="while.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="waiting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="textin1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="textin2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="textin3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
