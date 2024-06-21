@@ -219,6 +219,33 @@
     <ClCompile Include="textin3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ifelse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ifelseif.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="or.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="and.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="more_and.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="not.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cctypes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="condit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
