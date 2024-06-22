@@ -246,6 +246,21 @@
     <ClCompile Include="condit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="enum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jump.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cinfish.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cingolf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
