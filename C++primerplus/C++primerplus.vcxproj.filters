@@ -261,6 +261,12 @@
     <ClCompile Include="cingolf.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="outfile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sumafile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
