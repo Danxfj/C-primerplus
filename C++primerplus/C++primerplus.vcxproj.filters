@@ -318,6 +318,15 @@
     <ClCompile Include="recur.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ruler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fun_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arfupt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
