@@ -387,6 +387,27 @@
     <ClCompile Include="5-10.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="inline.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="firstref.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceref.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swaps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cubes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtref.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strquote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
