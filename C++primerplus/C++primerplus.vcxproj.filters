@@ -408,6 +408,30 @@
     <ClCompile Include="strquote.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="filefunc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="left.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leftover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="funtemp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twotemps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twoswap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="temptempover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="choices2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++primerplus.rc">
