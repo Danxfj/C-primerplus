@@ -1,12 +1,2 @@
-﻿  choices2.cpp
-E:\C++Script\vs2022project\C++primerplus\C++primerplus\choices2.cpp(27,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
-          with
-          [
-              T=int
-          ]
-E:\C++Script\vs2022project\C++primerplus\C++primerplus\choices2.cpp(27,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
-          with
-          [
-              T=int
-          ]
+﻿  6-4.cpp
   C++primerplus.vcxproj -> E:\C++Script\vs2022project\C++primerplus\x64\Debug\C++primerplus.exe
