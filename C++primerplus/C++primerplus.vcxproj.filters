@@ -13,451 +13,466 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\seven">
-      <UniqueIdentifier>{51a6f98e-9285-48b6-9b50-bd38d51baccc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\beforeseven">
+    <Filter Include="源文件\part01">
       <UniqueIdentifier>{c1c3e1fe-13a6-464e-ae73-c9e6da9102b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\part07">
+      <UniqueIdentifier>{51a6f98e-9285-48b6-9b50-bd38d51baccc}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="seven\test1.cpp">
-      <Filter>源文件\seven</Filter>
+      <Filter>源文件\part07</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-5.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-6.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\2-7.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-5.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-6.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\3-7.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-5.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-6.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-7.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-8.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-9.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\4-10.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-5.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-6.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-7.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-8.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-9.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\5-10.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\addpntrs.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\address.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\and.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arfupt.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arith.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arraynew.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrayone.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrfun1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrfun2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrfun3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrfun4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrobj.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\arrstruc.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\assgn_st.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\assign.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\atrctfun.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\bigstep.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\block.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\bondini.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\calling.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\Carrots.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\cctypes.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\chartype.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\choices.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\choices2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\cinfish.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\cingolf.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\compstr1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\condit.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\convert.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\cubes.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\delete.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\dowhile.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\enum.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\equal.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\express.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\filefunc.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\firstref.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\floatnum.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\fltadd.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\forloop.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\formore.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\forstr1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\forstr2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\fun_ptr.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\funtemp.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\getinfo.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\hexoct.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\hexoct2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\homework-chapter3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\if.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\ifelse.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\ifelseif.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\init_ptr.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\inline.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\instr1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\jump.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\left.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\leftover.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\limits.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\lotto.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\mixtypes.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\modulus.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\more_and.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\morechar.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\myfirst.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\newstrct.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\not.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\num_test.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\numstr.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\or.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\ourfunc.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\outfile.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\outFilerewrite.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\pointer.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\protos.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\ptrstr.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\recur.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\ruler.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\sceref.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strctptr.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strgback.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strgfun.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\string.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strquote.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strtref.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strtype.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strtype2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\strtype4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\structur.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\sumafile.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\sumafilerewrite.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\swaps.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\switch.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\temptempover.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\test.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\textin1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\textin2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\textin3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\topfive.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\travel.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\twoarg.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\twoswap.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\twotemps.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\use_new.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\waiting.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
     <ClCompile Include="beforeseven\while.cpp">
-      <Filter>源文件\beforeseven</Filter>
+      <Filter>源文件\part01</Filter>
     </ClCompile>
-    <ClCompile Include="seven\6-1.cpp">
-      <Filter>源文件\beforeseven</Filter>
+    <ClCompile Include="beforeseven\6-1.cpp">
+      <Filter>源文件\part01</Filter>
     </ClCompile>
-    <ClCompile Include="afternine\6-2.cpp">
-      <Filter>源文件\beforeseven</Filter>
+    <ClCompile Include="beforeseven\6-2.cpp">
+      <Filter>源文件\part01</Filter>
     </ClCompile>
-    <ClCompile Include="afternine\6-3.cpp">
-      <Filter>源文件\beforeseven</Filter>
+    <ClCompile Include="beforeseven\6-3.cpp">
+      <Filter>源文件\part01</Filter>
     </ClCompile>
-    <ClCompile Include="afternine\6-4.cpp">
-      <Filter>源文件\beforeseven</Filter>
+    <ClCompile Include="beforeseven\6-4.cpp">
+      <Filter>源文件\part01</Filter>
+    </ClCompile>
+    <ClCompile Include="beforeseven\6-5.cpp">
+      <Filter>源文件\part01</Filter>
+    </ClCompile>
+    <ClCompile Include="beforeseven\6-6.cpp">
+      <Filter>源文件\part01</Filter>
+    </ClCompile>
+    <ClCompile Include="beforeseven\6-9.cpp">
+      <Filter>源文件\part01</Filter>
+    </ClCompile>
+    <ClCompile Include="beforeseven\6-7.cpp">
+      <Filter>源文件\part01</Filter>
+    </ClCompile>
+    <ClCompile Include="beforeseven\6-8.cpp">
+      <Filter>源文件\part01</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
