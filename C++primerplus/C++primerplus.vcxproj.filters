@@ -21,9 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="seven\test1.cpp">
-      <Filter>源文件\part07</Filter>
-    </ClCompile>
     <ClCompile Include="beforeseven\2-1.cpp">
       <Filter>源文件\part01</Filter>
     </ClCompile>
@@ -473,6 +470,15 @@
     </ClCompile>
     <ClCompile Include="beforeseven\6-8.cpp">
       <Filter>源文件\part01</Filter>
+    </ClCompile>
+    <ClCompile Include="beforeseven\rulerrew.cpp">
+      <Filter>源文件\part07</Filter>
+    </ClCompile>
+    <ClCompile Include="seven\7-1.cpp">
+      <Filter>源文件\part07</Filter>
+    </ClCompile>
+    <ClCompile Include="seven\7-2.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
