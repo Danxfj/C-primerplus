@@ -19,6 +19,15 @@
     <Filter Include="源文件\part07">
       <UniqueIdentifier>{51a6f98e-9285-48b6-9b50-bd38d51baccc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\part08">
+      <UniqueIdentifier>{75071486-d4e6-4102-b89d-ce9e9a9544b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\part09">
+      <UniqueIdentifier>{2834e705-03de-4fe2-a9a9-4330e3010bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\part10">
+      <UniqueIdentifier>{9e8d7213-7284-4f6f-983b-144c9904b4e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beforeseven\2-1.cpp">
@@ -478,6 +487,33 @@
       <Filter>源文件\part07</Filter>
     </ClCompile>
     <ClCompile Include="seven\7-2.cpp">
+      <Filter>源文件\part07</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\stock00.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\test.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\usestock0.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\Stock10.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\usestock2.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\stock20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\usestock3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\stacker.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -485,5 +521,19 @@
     <ResourceCompile Include="beforeseven\C++primerplus.rc">
       <Filter>资源文件</Filter>
     </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ten\stock00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ten\Stock10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ten\stock20.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ten\stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
