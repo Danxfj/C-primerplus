@@ -1,2 +1,5 @@
-﻿  stack.cpp
+﻿  mytime2.cpp
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\eleven\mytime2.cpp(55,20): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  usetime2.cpp
+  正在生成代码...
   C++primerplus.vcxproj -> E:\C++Script\vs2022project\C++primerplus\x64\Debug\C++primerplus.exe

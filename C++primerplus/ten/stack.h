@@ -12,6 +12,7 @@ public:
 	Stack();
 	bool isempty() const;
 
+
 	bool isfull() const;
 
 	bool push(const Item& item);

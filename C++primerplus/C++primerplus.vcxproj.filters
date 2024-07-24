@@ -28,6 +28,15 @@
     <Filter Include="源文件\part10">
       <UniqueIdentifier>{9e8d7213-7284-4f6f-983b-144c9904b4e5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\part10">
+      <UniqueIdentifier>{2d74ae05-a215-434b-8d46-58fd4eb0785f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\part11">
+      <UniqueIdentifier>{eaed5992-c12a-4c75-8b0c-09bfc1a1c20d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\part11">
+      <UniqueIdentifier>{a173873c-34bc-450c-bc43-ff022bea232a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beforeseven\2-1.cpp">
@@ -504,16 +513,34 @@
     <ClCompile Include="ten\usestock2.cpp">
       <Filter>源文件\part10</Filter>
     </ClCompile>
-    <ClCompile Include="ten\stock20.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ten\usestock3.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="ten\stack.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part10</Filter>
     </ClCompile>
     <ClCompile Include="ten\stacker.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\stock20.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="ten\usestock3.cpp">
+      <Filter>源文件\part10</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\mytime0.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\mytime1.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\usetime0.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\usetime1.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\mytime2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\usetime2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -523,17 +550,26 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ten\stack.h">
+      <Filter>头文件\part10</Filter>
+    </ClInclude>
     <ClInclude Include="ten\stock00.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part10</Filter>
     </ClInclude>
     <ClInclude Include="ten\Stock10.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part10</Filter>
     </ClInclude>
     <ClInclude Include="ten\stock20.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part10</Filter>
     </ClInclude>
-    <ClInclude Include="ten\stack.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="eleven\mytime0.h">
+      <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven\mytime1.h">
+      <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven\mytime2.h">
+      <Filter>头文件\part11</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
