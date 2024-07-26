@@ -33,5 +33,5 @@ int main()
 	cout << "adjusted work time = ";
 	adjusted.show();
 	cout << endl;
-	return 0;
+	return 0; 
 }

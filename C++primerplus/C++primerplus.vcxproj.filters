@@ -543,6 +543,9 @@
     <ClCompile Include="eleven\usetime2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="eleven\time.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="beforeseven\C++primerplus.rc">
