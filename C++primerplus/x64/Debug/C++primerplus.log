@@ -1,2 +1,7 @@
-﻿  time.cpp
+﻿  sayings2.cpp
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\twelve\sayings2.cpp(51,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  String1.cpp
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\twelve\String1.cpp(16,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++Script\vs2022project\C++primerplus\C++primerplus\twelve\String1.cpp(58,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
   C++primerplus.vcxproj -> E:\C++Script\vs2022project\C++primerplus\x64\Debug\C++primerplus.exe

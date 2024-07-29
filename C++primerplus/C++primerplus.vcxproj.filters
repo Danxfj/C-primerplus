@@ -37,6 +37,12 @@
     <Filter Include="源文件\part11">
       <UniqueIdentifier>{a173873c-34bc-450c-bc43-ff022bea232a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\part12">
+      <UniqueIdentifier>{7b3dc23a-0577-428a-852a-586740b68ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\part12">
+      <UniqueIdentifier>{a109015e-22d1-4f03-8e92-0c1e2a214b9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beforeseven\2-1.cpp">
@@ -538,12 +544,51 @@
       <Filter>源文件\part11</Filter>
     </ClCompile>
     <ClCompile Include="eleven\mytime2.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part11</Filter>
     </ClCompile>
-    <ClCompile Include="eleven\usetime2.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="eleven\mytime3.cpp">
+      <Filter>源文件\part11</Filter>
     </ClCompile>
     <ClCompile Include="eleven\time.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\usetime2.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\usetime3.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\vector.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\randwalk.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\stone.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\stonewt.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\stone1.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="eleven\stonewt1.cpp">
+      <Filter>源文件\part11</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\strngbad.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\vegnews.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\String1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\sayings1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\sayings2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -573,6 +618,24 @@
     </ClInclude>
     <ClInclude Include="eleven\mytime2.h">
       <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven\mytime3.h">
+      <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven\vector.h">
+      <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven\tonewt.h">
+      <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="eleven\stonewt1.h">
+      <Filter>头文件\part11</Filter>
+    </ClInclude>
+    <ClInclude Include="twelve\strngbad.h">
+      <Filter>头文件\part12</Filter>
+    </ClInclude>
+    <ClInclude Include="twelve\string1.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
