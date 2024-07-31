@@ -43,6 +43,12 @@
     <Filter Include="源文件\part12">
       <UniqueIdentifier>{a109015e-22d1-4f03-8e92-0c1e2a214b9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\part13">
+      <UniqueIdentifier>{f078ed03-63e9-40c8-9650-6ceebd311973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\part13">
+      <UniqueIdentifier>{0b9c8da6-7f10-409d-aa12-8f3370f3f533}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beforeseven\2-1.cpp">
@@ -576,19 +582,43 @@
     <ClCompile Include="eleven\stonewt1.cpp">
       <Filter>源文件\part11</Filter>
     </ClCompile>
-    <ClCompile Include="twelve\strngbad.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="twelve\vegnews.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part12</Filter>
     </ClCompile>
-    <ClCompile Include="twelve\String1.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="twelve\bank.cpp">
+      <Filter>源文件\part12</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\placenew1.cpp">
+      <Filter>源文件\part12</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\placenew2.cpp">
+      <Filter>源文件\part12</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\queue.cpp">
+      <Filter>源文件\part12</Filter>
     </ClCompile>
     <ClCompile Include="twelve\sayings1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part12</Filter>
     </ClCompile>
     <ClCompile Include="twelve\sayings2.cpp">
+      <Filter>源文件\part12</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\String1.cpp">
+      <Filter>源文件\part12</Filter>
+    </ClCompile>
+    <ClCompile Include="twelve\strngbad.cpp">
+      <Filter>源文件\part12</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\tabtenn0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usett0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\tabtenn1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usett1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -635,6 +665,15 @@
       <Filter>头文件\part12</Filter>
     </ClInclude>
     <ClInclude Include="twelve\string1.h">
+      <Filter>头文件\part12</Filter>
+    </ClInclude>
+    <ClInclude Include="twelve\queue.h">
+      <Filter>头文件\part12</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\tabtenn0.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\tabtenn1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
