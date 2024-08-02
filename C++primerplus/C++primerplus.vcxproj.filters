@@ -621,6 +621,27 @@
     <ClCompile Include="thirteen\usett1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="thirteen\brass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usebrass1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usebrass2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\acctABC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usebrass3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\dma.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usedma.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="beforeseven\C++primerplus.rc">
@@ -674,6 +695,15 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="thirteen\tabtenn1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\Brass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\acctabc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\dma.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

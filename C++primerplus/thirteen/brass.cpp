@@ -91,6 +91,28 @@ void BrassPlus::ViewAcct() const
 	restore(initialState, prec);
 }
 
+void BrassPlus::Withdraw(double amt)
+{
+	format initialState = setFormat();
+	precis prec = cout.precision(2);
+
+	double bal = Balance();
+	if (amt <= bal)
+		Brass::Withdraw(amt);
+	else if (amt <= bal + maxLoan - owesBank)
+	{
+		double advance = amt - bal;   //取出的钱减去本金等于欠银行的本金
+		owesBank += advance * (1.0 + rate);
+		cout << "Bank advance: $" << advance << endl;
+		cout << "Finance charge: $" << advance * rate << endl;
+		Deposit(advance);     //这里不久意味着自己存款最少为零而不能为一个负数
+		Brass::Withdraw(amt);
+	}
+	else
+		cout << "Credit limit exceeded. Transaction cancelled.\n";
+	restore(initialState, prec);
+}
+
 format setFormat()
 {
 	//set up ###.## format
