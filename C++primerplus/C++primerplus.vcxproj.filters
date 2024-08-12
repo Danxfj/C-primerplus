@@ -49,6 +49,12 @@
     <Filter Include="头文件\part13">
       <UniqueIdentifier>{0b9c8da6-7f10-409d-aa12-8f3370f3f533}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\part14">
+      <UniqueIdentifier>{8e5d773a-48bb-45fa-bc3f-0cf8eb6adc55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\part14">
+      <UniqueIdentifier>{76dea03a-5a3b-4c2a-bfb1-78fc53fe7f53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beforeseven\2-1.cpp">
@@ -609,37 +615,43 @@
     <ClCompile Include="twelve\strngbad.cpp">
       <Filter>源文件\part12</Filter>
     </ClCompile>
-    <ClCompile Include="thirteen\tabtenn0.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="thirteen\usett0.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="thirteen\tabtenn1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="thirteen\usett1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="thirteen\brass.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="thirteen\usebrass1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="thirteen\usebrass2.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part13</Filter>
     </ClCompile>
     <ClCompile Include="thirteen\acctABC.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part13</Filter>
     </ClCompile>
-    <ClCompile Include="thirteen\usebrass3.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="thirteen\brass.cpp">
+      <Filter>源文件\part13</Filter>
     </ClCompile>
     <ClCompile Include="thirteen\dma.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\tabtenn0.cpp">
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\tabtenn1.cpp">
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usebrass1.cpp">
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usebrass2.cpp">
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usebrass3.cpp">
+      <Filter>源文件\part13</Filter>
     </ClCompile>
     <ClCompile Include="thirteen\usedma.cpp">
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="thirteen\usett0.cpp">
+      <Filter>源文件\part13</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\student.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\use_stuc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -691,19 +703,22 @@
     <ClInclude Include="twelve\queue.h">
       <Filter>头文件\part12</Filter>
     </ClInclude>
-    <ClInclude Include="thirteen\tabtenn0.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="thirteen\tabtenn1.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="thirteen\acctabc.h">
+      <Filter>头文件\part13</Filter>
     </ClInclude>
     <ClInclude Include="thirteen\Brass.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="thirteen\acctabc.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part13</Filter>
     </ClInclude>
     <ClInclude Include="thirteen\dma.h">
+      <Filter>头文件\part13</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\tabtenn0.h">
+      <Filter>头文件\part13</Filter>
+    </ClInclude>
+    <ClInclude Include="thirteen\tabtenn1.h">
+      <Filter>头文件\part13</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\studentc.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
