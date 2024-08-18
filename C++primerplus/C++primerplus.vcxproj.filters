@@ -654,6 +654,18 @@
     <ClCompile Include="forteen\use_stuc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="forteen\student1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\use_stui.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\worker0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\worktest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="beforeseven\C++primerplus.rc">
@@ -719,6 +731,12 @@
       <Filter>头文件\part13</Filter>
     </ClInclude>
     <ClInclude Include="forteen\studentc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\studenti.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\Worker0.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
