@@ -649,21 +649,54 @@
       <Filter>源文件\part13</Filter>
     </ClCompile>
     <ClCompile Include="forteen\student.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="forteen\use_stuc.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part14</Filter>
     </ClCompile>
     <ClCompile Include="forteen\student1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\use_stuc.cpp">
+      <Filter>源文件\part14</Filter>
     </ClCompile>
     <ClCompile Include="forteen\use_stui.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part14</Filter>
     </ClCompile>
     <ClCompile Include="forteen\worker0.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part14</Filter>
     </ClCompile>
     <ClCompile Include="forteen\worktest.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\workermi.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\workmi2.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\twod.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\pairs.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\sstkoptr1.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\stacktem.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\tempmemb.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\tempparm.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\frnd2tmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\tmp2tmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\manyfrnd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -730,13 +763,25 @@
     <ClInclude Include="thirteen\tabtenn1.h">
       <Filter>头文件\part13</Filter>
     </ClInclude>
+    <ClInclude Include="forteen\workermi.h">
+      <Filter>头文件\part14</Filter>
+    </ClInclude>
     <ClInclude Include="forteen\studentc.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part14</Filter>
     </ClInclude>
     <ClInclude Include="forteen\studenti.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part14</Filter>
     </ClInclude>
     <ClInclude Include="forteen\Worker0.h">
+      <Filter>头文件\part14</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\stacktp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\stcktp1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\arraytp.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

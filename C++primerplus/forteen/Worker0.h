@@ -40,5 +40,5 @@ public:
 	Singer(const std::string& s, long n, int v = other) : Worker(s, n), voice(v) {}
 	Singer(const Worker& wk, int v = other) : Worker(wk), voice(v) {}
 	void Set();
-	void Show() const;
+	void Show() const;	
 };
