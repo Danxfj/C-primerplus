@@ -55,6 +55,12 @@
     <Filter Include="源文件\part14">
       <UniqueIdentifier>{76dea03a-5a3b-4c2a-bfb1-78fc53fe7f53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\part15">
+      <UniqueIdentifier>{4ca603c9-c39f-47a2-ab7c-f3d5b7a31a33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\part15">
+      <UniqueIdentifier>{7eb9c559-8516-43b8-a7d0-eccd2aeec760}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beforeseven\2-1.cpp">
@@ -691,12 +697,33 @@
       <Filter>源文件\part14</Filter>
     </ClCompile>
     <ClCompile Include="forteen\frnd2tmp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="forteen\tmp2tmp.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\part14</Filter>
     </ClCompile>
     <ClCompile Include="forteen\manyfrnd.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="forteen\tmp2tmp.cpp">
+      <Filter>源文件\part14</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\tv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\use_tv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\nested.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\error1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\error2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\error3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fifteen\error4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -775,13 +802,25 @@
     <ClInclude Include="forteen\Worker0.h">
       <Filter>头文件\part14</Filter>
     </ClInclude>
-    <ClInclude Include="forteen\stacktp.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="forteen\stcktp1.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\part14</Filter>
     </ClInclude>
     <ClInclude Include="forteen\arraytp.h">
+      <Filter>头文件\part14</Filter>
+    </ClInclude>
+    <ClInclude Include="forteen\stacktp.h">
+      <Filter>头文件\part14</Filter>
+    </ClInclude>
+    <ClInclude Include="fifteen\tv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fifteen\tvfm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fifteen\queuetp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fifteen\exc_mean.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
